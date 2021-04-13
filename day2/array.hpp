@@ -1,6 +1,7 @@
 #pragma once
 #include "class.hpp"
 
+class ArregloContacto
 {
 public:
 	ArregloContacto();
